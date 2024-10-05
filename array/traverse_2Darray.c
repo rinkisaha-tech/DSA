@@ -2,13 +2,26 @@
 
 int main()
 {
-    int arr[3][3] = {1 , 2 , 3 , 4  , 5 , 6 , 7 , 8 , 9};
-
-    for (int i = 0; i < 3; i++)
+    int arr[3][3];
+    int i, j, row = 3, column = 3;
+    
+    for ( i = 0; i < row; i++)
     {
-        for (int j = 0; j < 3; j++)
+        for ( j = 0; j < column; j++)
         {
-            printf(" %d ", arr[i][j]);
+            printf("Insert the [%d][%d]'th element: ", i, j);
+            scanf("%d",&arr[i][j]);
+        }
+        
+    }
+
+    printf("The following matrix is: \n");
+
+    for ( i = 0; i < row; i++)
+    {
+        for ( j = 0; j < column; j++)
+        {
+            printf("%d ",arr[i][j]);
         }
         printf("\n");
     }
