@@ -7,7 +7,7 @@ This repository covers essential topics in **Data Structures and Algorithms (DSA
 ## Table of Contents
 1. [Introduction to DSA](#introduction-to-dsa)
 2. [Complexity Analysis](#complexity-analysis)
-3. [Array and Strings](./DSA/array)
+- [Array and Strings](./DSA/array)
 4. [Linked Lists](#linked-lists)
 5. [Stacks and Queues](#stacks-and-queues)
 6. [Recursion and Backtracking](#recursion-and-backtracking)
