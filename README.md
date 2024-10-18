@@ -1,3 +1,5 @@
+[![C](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml/badge.svg)](https://github.com/rinkisaha-tech/DSA)
+[![Python](https://github.com/MakeContributions/DSA/actions/workflows/python.yml/badge.svg)](https://github.com/rinkisaha-tech/DSA)
 
 ```markdown
 # Data Structures and Algorithms (DSA) Syllabus
@@ -7,7 +9,7 @@ This repository covers essential topics in **Data Structures and Algorithms (DSA
 ## Table of Contents
 1. [Introduction to DSA](#introduction-to-dsa)
 2. [Complexity Analysis](#complexity-analysis)
-3. [Array and Strings](./DSA/array)
+3. [Array and Strings](./array/)
 4. [Linked Lists](#linked-lists)
 5. [Stacks and Queues](#stacks-and-queues)
 6. [Recursion and Backtracking](#recursion-and-backtracking)
