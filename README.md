@@ -5,7 +5,7 @@
 This repository covers essential topics in **Data Structures and Algorithms (DSA)**. It is designed for anyone interested in mastering DSA concepts, coding techniques, and problem-solving skills.
 
 ## Table of Contents
-1. [Introduction to DSA](#https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
+1. [Introduction to DSA](#introduction-to-dsa)
 2. [Complexity Analysis](#complexity-analysis)
 3. [Array and Strings](#arrays-and-strings)
 4. [Linked Lists](#linked-lists)
