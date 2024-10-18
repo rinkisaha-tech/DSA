@@ -1,8 +1,5 @@
 [![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/20px-C_Programming_Language.svg.png?20201031132917)](https://github.com/rinkisaha-tech/DSA)
-[![Python](<a href="https://github.com/rinkisaha-tech/DSA">
-    <img src="https://www.svgrepo.com/show/376344/python.svg" width="20px" height="20px" />
-</a>
-)](https://github.com/rinkisaha-tech/DSA)
+[![Python](https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg/20px)](https://github.com/rinkisaha-tech/DSA)
 
 ```markdown
 # Data Structures and Algorithms (DSA) Syllabus
