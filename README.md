@@ -1,4 +1,5 @@
-[![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/30px-C_Programming_Language.svg.png?20201031132917)](https://github.com/rinkisaha-tech/DSA)
+[![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/45px-C_Programming_Language.svg.png?20201031132917)](https://github.com/rinkisaha-tech/DSA)
+```   All In C Programming :) ```
 
 ```markdown
 # Data Structures and Algorithms (DSA) Syllabus
