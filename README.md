@@ -4,7 +4,7 @@
 ```markdown
 # Data Structures and Algorithms (DSA) Syllabus
 
-This repository covers essential topics in **Data Structures and Algorithms (DSA)**. It is designed for anyone interested in mastering DSA concepts, coding techniques, and problem-solving skills.
+This repository covers essential topics in **Data Structures and Algorithms (DSA)**. It is designed for ensure DSA concepts, coding techniques, develop problem-solving skills and better logic building.
 
 ## Table of Contents
 1. [Introduction to DSA](#introduction-to-dsa)
