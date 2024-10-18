@@ -1,4 +1,4 @@
-[![C](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml/badge.svg)](https://github.com/rinkisaha-tech/DSA)
+[![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917)](https://github.com/rinkisaha-tech/DSA)
 [![Python](https://github.com/MakeContributions/DSA/actions/workflows/python.yml/badge.svg)](https://github.com/rinkisaha-tech/DSA)
 
 ```markdown
